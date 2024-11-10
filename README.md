@@ -24,6 +24,7 @@ This Is My First Git Repository
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ritikmittal001/firstcodedemo/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/ritikmittal001/firstcodedemo/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ This Is My First Git Repository
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ritikmittal001/firstcodedemo/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/ritikmittal001/firstcodedemo/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -41,4 +43,8 @@ This Is My First Git Repository
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ritikmittal001/firstcodedemo/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ritikmittal001/firstcodedemo/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
