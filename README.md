@@ -11,4 +11,8 @@ This Is My First Git Repository
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ritikmittal001/firstcodedemo/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ritikmittal001/firstcodedemo/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
