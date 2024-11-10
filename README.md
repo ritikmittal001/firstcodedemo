@@ -7,6 +7,7 @@ This Is My First Git Repository
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ritikmittal001/firstcodedemo/tree/master/0014-longest-common-prefix) |
+| [0443-string-compression](https://github.com/ritikmittal001/firstcodedemo/tree/master/0443-string-compression) |
 ## Trie
 |  |
 | ------- |
@@ -15,4 +16,8 @@ This Is My First Git Repository
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ritikmittal001/firstcodedemo/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/ritikmittal001/firstcodedemo/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
