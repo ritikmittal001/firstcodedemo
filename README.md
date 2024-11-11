@@ -24,6 +24,7 @@ This Is My First Git Repository
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ritikmittal001/firstcodedemo/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/ritikmittal001/firstcodedemo/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/ritikmittal001/firstcodedemo/tree/master/0268-missing-number) |
 ## Hash Table
@@ -47,4 +48,12 @@ This Is My First Git Repository
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ritikmittal001/firstcodedemo/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ritikmittal001/firstcodedemo/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ritikmittal001/firstcodedemo/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
