@@ -20,10 +20,12 @@ This Is My First Git Repository
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ritikmittal001/firstcodedemo/tree/master/0015-3sum) |
 | [0443-string-compression](https://github.com/ritikmittal001/firstcodedemo/tree/master/0443-string-compression) |
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ritikmittal001/firstcodedemo/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/ritikmittal001/firstcodedemo/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/ritikmittal001/firstcodedemo/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikmittal001/firstcodedemo/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -46,6 +48,7 @@ This Is My First Git Repository
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ritikmittal001/firstcodedemo/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/ritikmittal001/firstcodedemo/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ritikmittal001/firstcodedemo/tree/master/0268-missing-number) |
 ## Matrix
